@@ -1,0 +1,20 @@
+textarea {
+    min-height: 400px;
+}
+
+
+body {
+    background-color:  #c3fae7;
+}
+
+.posta {
+    display: flex;
+    border: 0.5px solid silver;
+    background-color: white;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gelesen {
+    background-color: lightgrey;
+}
